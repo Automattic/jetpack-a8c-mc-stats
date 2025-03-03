@@ -1,4 +1,4 @@
-<?php // phpcs:ignore Squiz.Commenting.FileComment.Missing
+<?php
 
 namespace Automattic\Jetpack;
 
